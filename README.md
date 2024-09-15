@@ -5,3 +5,4 @@ Silakan Gunakan format
 
 List yang diterima:  
 1. ABC,123
+2. Ian,124
